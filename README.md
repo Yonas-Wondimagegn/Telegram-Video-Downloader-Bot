@@ -7,7 +7,6 @@ This is a Telegram bot that downloads videos from Instagram Reels and TikTok lin
 - **Download videos from Instagram Reels and TikTok**: Send a link and get the video file.
 - **Automatic cleanup**: Deletes all downloaded video files in the `downloads` folder every 10 minutes.
 - **Manual cleanup**: Deletes all downloaded video files in the `downloads` folder using the `/deletemp4` command with a password.
-- **Password protection**: Use a password to clear the download folder manually through the Telegram bot.
 
 ## Commands
 
