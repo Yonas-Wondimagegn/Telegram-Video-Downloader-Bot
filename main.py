@@ -12,7 +12,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TOKEN = '7316645880:AAHUSYUV-u0ilf05qUQTn-SAOADyx0Wq7_0'  # Your Telegram token
+TOKEN = 'your_telegram_Token'  # Your Telegram token
 PASSWORD = '123'  # Set your password here (optional)
 
 async def start(update: Update, context: CallbackContext):
